@@ -11,3 +11,24 @@ Take atleast 30 minutes everyday to challenge myself to accomplish something on 
 
 ### Day 1 (14/12/2020)
 Accepted the challenge and completed the lesson 1 of Creating a Dataset (Data fitting and Annotation with appen). It's my first submission and i'm excited
+
+### Day 2 (15/12/2020)
+Started the project (Create a medical Image Annotation Job) using appen
+
+### Day 3 (16/12/2020)
+Got and studied more resources on data annotation with appen
+
+### Day 4 (17/12/2020)
+Completed the optional project which i started in my *__Day 2__*
+
+### Day 5 (18/12/2020)
+Completed lessons 1, 2, and 3 of the **Training and Evaluating** a model Section
+
+### Day 6 (19/12/2020)
+Completed lessons 4, 5, and 6 of the **Training and Evaluating** a model Section
+
+### Day 7 (20/12/2020)
+Learnt the concept of neural networks, activation functions in neural networks, model training and testing
+
+### Day 8 (21/12/2020)
+Learnt the model evaluation using, the **precision**, **recall** and **F-1 Score** metric
