@@ -32,3 +32,6 @@ Learnt the concept of neural networks, activation functions in neural networks, 
 
 ### Day 8 (21/12/2020)
 Learnt the model evaluation using, the **precision**, **recall** and **F-1 Score** metric
+
+### Day 9 (22/12/2020)
+Start writing a medium story on **Model Performance evaluation with F1 Score**
