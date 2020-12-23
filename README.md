@@ -35,3 +35,6 @@ Learnt the model evaluation using, the **precision**, **recall** and **F-1 Score
 
 ### Day 9 (22/12/2020)
 Start writing a medium story on **Model Performance evaluation with F1 Score**
+
+### Day 10 (23/12/2020)
+Continue with my article writing on **Model Performance evaluation with F1 Score**
